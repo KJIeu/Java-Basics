@@ -1,6 +1,10 @@
 package lab8;
 
 //public class Parallepiped extends GeometricBody{
+/*to use it with GeometricBody abstract class you must:
+1) decomment lines 3, 17, 25
+2) comment lines 11-14, 18-20, 26-28
+*/
 public class Parallepiped implements GeometricBodyInterface{
     protected static int counter = 1;
 
