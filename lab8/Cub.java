@@ -4,7 +4,7 @@ package lab8;
 //public class Cub extends GeometricBody{
 /*to use it with GeometricBody abstract class you must:
 1) decomment lines 4, 15, 21
-2) comment lines 11, 16, 22
+2) comment lines 9, 11, 16, 22
 */
 public class Cub implements GeometricBodyInterface{
     protected static int counter = 1;
