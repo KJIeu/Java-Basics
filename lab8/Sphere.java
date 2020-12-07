@@ -1,6 +1,11 @@
 package lab8;
 
 //public class Sphere extends GeometricBody{
+/*to use it with GeometricBody abstract class you must:
+1) decomment lines 3, 15, 21, 29, 35
+2) comment lines 11, 16, 22, 30, 36
+3) replace "double radix" in lines 14 and 20 by "double length"
+*/
 public class Sphere implements GeometricBodyInterface{
     protected static int counter = 1;
     double radix;
